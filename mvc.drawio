@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T09:41:31.915Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="sPnRcoEsfqr8LVyuJYrC" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T09:42:25.278Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="5fNyDTfgFuTdvSJPj8Vl" version="21.3.3" type="github">
   <diagram name="Page-1" id="6Fb1UpeegRMnGslX5uGk">
     <mxGraphModel dx="1215" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,19 +33,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Snfnm1RZUHgXp-elTZEX-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.183;entryY=0;entryDx=0;entryDy=0;exitX=0.85;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="Snfnm1RZUHgXp-elTZEX-1" target="Snfnm1RZUHgXp-elTZEX-2">
+        <mxCell id="Snfnm1RZUHgXp-elTZEX-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.342;entryY=-0.017;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="Snfnm1RZUHgXp-elTZEX-1" target="Snfnm1RZUHgXp-elTZEX-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Snfnm1RZUHgXp-elTZEX-11" value="Verarbeitete&lt;br&gt;Daten" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Snfnm1RZUHgXp-elTZEX-8">
           <mxGeometry x="0.3783" y="3" relative="1" as="geometry">
-            <mxPoint x="12" y="-19" as="offset" />
+            <mxPoint x="-8" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Snfnm1RZUHgXp-elTZEX-9" value="Visualisierung&lt;br&gt;Anfordern" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Snfnm1RZUHgXp-elTZEX-2" target="Snfnm1RZUHgXp-elTZEX-3">
-          <mxGeometry x="-0.3809" y="26" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="Snfnm1RZUHgXp-elTZEX-9" value="Visualisierung&lt;br&gt;Anfordern" style="endArrow=classic;html=1;rounded=0;exitX=0.667;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Snfnm1RZUHgXp-elTZEX-2" target="Snfnm1RZUHgXp-elTZEX-3">
+          <mxGeometry x="-0.0403" y="14" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
             <mxPoint as="offset" />
